@@ -1,18 +1,41 @@
-Project Name: Accenture Data Analytics Virtual Project
+# Accenture Data Analytics Virtual Project
 
-Project Owner: Jane Zhou
+# Project Background
 
-Email: jane.w.zhou1202@gmail.com
+- Accenture's client - Social Buzz is in social media and content creation industry and was founded in 2010 based in San Francisco, USA.
+- Social Buzz emphasizes content by keeping all users anonymous, only racking user reactions on every piece of content.
+- Over the past 5 years, Social Buzz has reached over 500 million active users each month.
+- They want to learn best data practices from a large corporation.
 
-Project Background:
-The client is Social Buzz which is in social media and content creation industry and was founded in 2010 based in San Francisco, USA.
-Social Buzz emphasies content by keeping all users anonymous, only racking user reactions on every piece of content.
-Over the past 5 years, Social Buzz has reached over 500 million active users each month.
-They want to learn best practices from a large corporation.
+# Project Milestones
 
-Project Deliverables: An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
+- Quickly get up to speed with the business problem being addressed, project requirements and team alignment.
+- Modeling data to create valuable insights.
+- Bring your data to life and uncover insights for the business.
+- Present your insights back to the Social Buzz.
 
-Project Milestones:
-Merge of sample data set tables
-Analysis of popularity on sample data
-Data Analysis Visualisation
+# Project Deliverables
+
+- An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
+
+# Setup
+
+- Jupyter Notebook
+- Python3
+
+# Manual
+
+- Raw data files:
+  - Content.csv
+  - Location.csv
+  - Profile.csv
+  - ReactionTypes.csv
+  - Reactions.csv
+  - Session.csv
+  - User.csv
+- Merged data file:
+  - MergedFullDataset.csv
+  - DataAnalysisPopularityTop5.csv
+- Draw Entity Relationship (ER) Diagram
+- Use Microsoft Excel Merge function to merge all relevant columns
+- Make pivot table by sorting popularity score and select the top 5 categories
