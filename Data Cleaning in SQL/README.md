@@ -1,4 +1,4 @@
-# Data Cleaning in SQL Queries Project
+# Housing Data Cleaning in SQL Queries Project
 
 # Project background
 
