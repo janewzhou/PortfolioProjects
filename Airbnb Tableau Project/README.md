@@ -23,7 +23,7 @@
 
 - A dynamic Tableau workbook (containing 5 sheets and 1 dashboard)
 
-<img src="image/Tableau Dashboard Image.png" width="1000">
+<img src="image/Tableau Dashboard Image.png" width="1500">
 
 # Setup
 
