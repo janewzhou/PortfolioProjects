@@ -33,10 +33,10 @@
   - Reactions.csv
   - Session.csv
   - User.csv
+- Use Microsoft Excel Merge function to merge all relevant columns
 - Merged data file:
   - MergedFullDataset.csv
 - Draw Entity Relationship (ER) Diagram
   - Data model.pdf
-- Use Microsoft Excel Merge function to merge all relevant columns
 - Make pivot table by sorting popularity score and select the top 5 categories
   - DataAnalysisPopularityTop5.csv
