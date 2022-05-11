@@ -23,10 +23,10 @@ UPDATE NashvilleHousing
 SET SaleDateConverted = CONVERT(DATE, SALEDATE)
 
 
+
 -- Populate Property Address data
 SELECT *
 FROM PortfolioProject..NashvilleHousing
---WHERE PropertyAddress IS NULL
 ORDER BY ParcelID
 
 
@@ -51,8 +51,7 @@ WHERE a.PropertyAddress is null
 
 SELECT PropertyAddress
 FROM PortfolioProject..NashvilleHousing
--- WHERE PropertyAddress IS NULL
--- ORDER BY ParcelID
+
 
 SELECT 
 SUBSTRING(PropertyAddress, 1, CHARINDEX(',', PropertyAddress) - 1) as Address,
@@ -79,6 +78,7 @@ FROM PortfolioProject..NashvilleHousing
 
 
 -- Another way to split OwnerAddress by using PARSENAME
+
 SELECT OwnerAddress
 FROM PortfolioProject..NashvilleHousing
 
@@ -139,6 +139,7 @@ SET SoldAsVacant = CASE WHEN SoldAsVacant = 'Y' THEN 'Yes'
 
 
 -- Remove Duplicates
+
 WITH RowNumCTE AS(
 SELECT *, 
 	ROW_NUMBER() OVER (
@@ -151,12 +152,10 @@ SELECT *,
 					UniqueID
 					) row_num
 FROM PortfolioProject..NashvilleHousing
--- ORDER BY ParcelID
 )
 DELETE *
 FROM RowNumCTE
 WHERE row_num > 1
--- ORDER BY PropertyAddress
 
 
 
