@@ -23,6 +23,8 @@
 
 - A dynamic Tableau workbook (containing 5 sheets and 1 dashboard)
 
+<img src="image/Tableau Dashboard Image.png" width="250">
+
 # Setup
 
 - Tableau Public 2022.1.1
