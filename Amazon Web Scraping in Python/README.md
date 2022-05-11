@@ -26,5 +26,5 @@
 
 - Web Scraper python file:
   - Amazon_Web_Scraper_Project.ipynb
-- Export file:
+- Exported file:
   - AmazonWebScraperDataset.csv
