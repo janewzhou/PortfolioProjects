@@ -20,8 +20,7 @@
 
 # Setup
 
-- Jupyter Notebook
-- Python3
+- Microsoft Excel
 
 # Manual
 
