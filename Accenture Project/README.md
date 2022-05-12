@@ -9,10 +9,10 @@
 
 # Project Milestones
 
-- Quickly get up to speed with the business problem being addressed, project requirements and team alignment.
-- Modeling data to create valuable insights.
-- Bring your data to life and uncover insights for the business.
-- Present your insights back to the Social Buzz.
+- Get up to speed with the business problem being addressed, project requirements and team alignment.
+- Model data to create valuable insights.
+- Bring the data to life and uncover insights for the business.
+- Present my insights back to the Social Buzz vitually.
 
 # Project Deliverables
 
