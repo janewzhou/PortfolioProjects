@@ -1,4 +1,4 @@
-# Movide Data Correlation Project
+# Movie Data Correlation Project
 
 # Project Background
 
