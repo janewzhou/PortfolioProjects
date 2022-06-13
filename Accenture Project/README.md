@@ -3,7 +3,7 @@
 # Project Background
 
 - Accenture's client - Social Buzz is in social media and content creation industry and was founded in 2010 based in San Francisco, USA.
-- Social Buzz emphasizes content by keeping all users anonymous, only racking user reactions on every piece of content.
+- Social Buzz emphasizes content by keeping all users anonymous, only tracking user reactions on every piece of content.
 - Over the past 5 years, Social Buzz has reached over 500 million active users each month.
 - They want to learn best data practices from a large corporation.
 
