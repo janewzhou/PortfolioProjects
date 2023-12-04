@@ -10,7 +10,6 @@ This Repository holds all of the code and queries from the Portfolio Projects I 
 - Data Correlation Project (in Python)
 - Data Exploration Project (in SQL)
 - GTFS Geospatial Project (in Tableau)
-- JCD Programmatic Trading Project (in Tableau)
 - Quantium Full Project (in Python)
 
 
